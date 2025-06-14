@@ -3,9 +3,9 @@
 <h3 align="center">A passionate software developer from Haiti</h3>
 <img align="right" alt"coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" >
 
-- 🌱 I’m currently learning **restful Api with C#**
+- 🌱 I’m currently working on **PREDIKA** an AI-powered platform dedicated to improving and supporting the Haitian Creole language.
 
-- 💬 Ask me about **React and flutter**
+- 💬 Ask me about **React, typescript and Django**
 
 - ⚡ Fun fact **I'm a code tize**
 
