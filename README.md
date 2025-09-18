@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **PREDIKA**, an AI-powered platform dedicated to improving and supporting the **Haitian Creole** language.
 
-- 💬 Ask me about **React, TypeScript, .NET, and Django**
+- 💬 Ask me about **React, TypeScript, NestJS, .NET, and Django**
 
 - ⚡ Fun fact **I'm a code tize**
 
