@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently building **PREDIKA**, an AI-powered platform dedicated to improving and supporting the **Haitian Creole language**
+- 🌱 I’m currently co building **PREDIKA**, an AI-powered platform dedicated to improving and supporting the **Haitian Creole language**
 - 💻 Passionate about creating scalable web applications and solving real-world problems through technology
 - 💬 Ask me about **React, TypeScript, NestJS, .NET, Django, and Full-Stack Development**
 - ⚡ Fun fact: **I turn coffee into code ☕ → 💻**
